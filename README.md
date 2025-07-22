@@ -1,3 +1,2 @@
 # Heat_Index
-Heat Index app by LOTTECHILSUNG Safety Management Team
-v1.0.0
+체감온도 계산을 위한 앱입니다.
